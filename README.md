@@ -1,3 +1,6 @@
+<div align="right">
+  <img align="right" alt="coding" width="450" src="https://github.com/Priyanka955398/Priyanka955398/assets/137306992/676e410f-cebf-4b06-a4c2-b3f83893134f">
+</div> 
 
 # Welcome to Priyanka's GitHub!
 
@@ -14,9 +17,7 @@ Hello! 👋 I'm Priyanka Maharana, a VLSI enthusiast passionate about digital de
 - CPU architecture, instruction sets and its design
 - AMBA Protocol verification
 - TCL Scripting
-<div align="center">
-  <img src="https://github.com/Priyanka955398/Priyanka955398/assets/137306992/676e410f-cebf-4b06-a4c2-b3f83893134f" alt="Pic"/>
-</div>
+
 
 ## 📫 How to Reach Me
 
