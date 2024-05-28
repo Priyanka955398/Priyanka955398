@@ -1,6 +1,6 @@
-# Welcome to Priyanks's GitHub!
+# Welcome to Priyanka's GitHub!
 
-Hello! 👋 I'm Priyanka , a VLSI enthusiast passionate about digital design and verification. This GitHub repository is where I share my projects, collaborate with other developers, and contribute to the open-source community. 
+Hello! 👋 I'm Priyanka Maharana, a VLSI enthusiast passionate about digital design and verification. This GitHub repository is where I share my projects, collaborate with other developers, and contribute to the open-source community. 
 
 ## 🛠️ Technologies & Tools
 
