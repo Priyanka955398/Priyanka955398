@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Priyanka955398/Priyanka955398/assets/137306992/a655c2e3-7901-4653-94fd-27feea613b48" alt="Pic"/>
+  <img src="https://github.com/Priyanka955398/Priyanka955398/assets/137306992/20a12d84-aa8b-4b48-a96c-012d0f4286ba" alt="Pic"/>
 </div>
 
 # Welcome to Priyanka's GitHub!
