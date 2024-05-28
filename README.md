@@ -5,7 +5,7 @@
 + 📫 How to reach me: you've got my LinkedIn link below  
 
 <div align="center">
-  <a href="www.linkedin.com/in/priyanka-maharana-067681223">
+  <a href="https://www.linkedin.com/in/priyanka-maharana-067681223">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </div>
